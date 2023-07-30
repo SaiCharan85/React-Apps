@@ -1,0 +1,42 @@
+.ss2{
+    margin-left:20px;
+}
+.ss3{
+    width:70%;
+    box-shadow:-10px -10px 10px gray;
+}
+
+.summary {
+    margin:auto;
+    width:40%;
+    height:300px;
+    background-color:lightgray;
+    
+    border:2px solid whitesmoke;    
+    border-radius: 5px;
+    color:black;
+    text-align:left;
+    display:block;
+    size:20px;
+    padding:20px;
+    
+}
+span{
+    background-color:ghostwhite;
+    border:2px solid black;
+    width:30%;
+    padding: 2px;
+    display:block;
+    height:30px;
+
+}
+
+.light{
+    color:black;
+    background-color: white;
+  }
+.dark{
+    color:white;
+    background-color: black;
+  }
+
